@@ -1,0 +1,11 @@
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.csprojAssemblyReference.cache
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.csproj.CoreCompileInputs.cache
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.AssemblyInfoInputs.cache
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.AssemblyInfo.cs
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\bin\Debug\netcoreapp2.1\Class2.deps.json
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\bin\Debug\netcoreapp2.1\Class2.runtimeconfig.json
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\bin\Debug\netcoreapp2.1\Class2.runtimeconfig.dev.json
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\bin\Debug\netcoreapp2.1\Class2.dll
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\bin\Debug\netcoreapp2.1\Class2.pdb
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.dll
+C:\Users\nenad.popovski\Desktop\GitDemo\Class2\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.pdb
